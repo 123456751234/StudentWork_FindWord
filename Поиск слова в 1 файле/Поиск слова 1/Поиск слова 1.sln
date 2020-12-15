@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Поиск слова 1", "Поиск слова 1\Поиск слова 1.csproj", "{527202A1-DC92-4969-B7C3-F39A2A68ABD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindWordLib", "FindWordLib\FindWordLib.csproj", "{7B8AE7C9-0EFD-4D95-8587-6B22C5B5C866}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{527202A1-DC92-4969-B7C3-F39A2A68ABD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{527202A1-DC92-4969-B7C3-F39A2A68ABD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{527202A1-DC92-4969-B7C3-F39A2A68ABD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{527202A1-DC92-4969-B7C3-F39A2A68ABD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B8AE7C9-0EFD-4D95-8587-6B22C5B5C866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B8AE7C9-0EFD-4D95-8587-6B22C5B5C866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B8AE7C9-0EFD-4D95-8587-6B22C5B5C866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B8AE7C9-0EFD-4D95-8587-6B22C5B5C866}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4C8848C-E990-4603-834B-755E5FF9277D}
+	EndGlobalSection
+EndGlobal
